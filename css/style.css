@@ -1,0 +1,10 @@
+.nav-link {
+  color: white !important;
+}
+.kids {
+  margin-top: -0.7em;
+}
+
+.movie:hover {
+  scale: 1.3;
+}
